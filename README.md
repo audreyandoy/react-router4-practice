@@ -1,5 +1,11 @@
-## React Router tutorial
+## React Router Tutorial Notes
 This project was made using the reactraining.com React Router tutorial. 
+
+Switch renders the first Route or Redirect that matches the location exclusively. 
+
+Important props = match, history, location. Useful for auth and redirect. 
+
+
 
 
 ## Create React App 
